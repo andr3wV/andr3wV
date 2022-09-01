@@ -21,5 +21,3 @@ I'm a sophomore undergraduate student at the University of Notre Dame studying C
   - Email andrewv433@gmail.com
   - Telegram @andrewv433
   - IG @andrew_vittiglio
-
-[![pointless button](https://pointless-profile-button.vercel.app/api/button)](https://pointless-profile-button.vercel.app)
