@@ -3,7 +3,7 @@
 I'm a sophomore undergraduate student at the University of Notre Dame studying Computer Science and Economics. I'm interested academically in the applicatons of finance in CS and in blockchain. I'm always looking for new projects to take on, big or small. 
 
 ### 🎖I've worked using: 
-- JS/Typescript - (Node.js, React,...)
+- JS - (Node.js, React,...)
 - Java
 - Python3
 - R
