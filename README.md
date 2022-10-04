@@ -19,6 +19,10 @@ I'm a sophomore undergraduate student at the University of Notre Dame studying C
 
 
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+
 *doesn't include all my private repos!...I'm working on it!
 
 ### 📫Reach out to me
