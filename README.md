@@ -19,7 +19,7 @@ I'm a sophomore undergraduate student at the University of Notre Dame studying C
 
 
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/andr3wV/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 
