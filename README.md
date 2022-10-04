@@ -15,7 +15,7 @@ I'm a sophomore undergraduate student at the University of Notre Dame studying C
 
 
 
-[![Top Langs](https://github-readme-stats2-sigma.vercel.app/api/top-langs/?username=andr3wV&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats2-sigma.vercel.app/api/top-langs/?username=andr3wV&layout=compact&hide_title=true)](https://github.com/andr3wV/github-readme-stats)
 
 
 *doesn't include all my private repos!...I'm working on it!
