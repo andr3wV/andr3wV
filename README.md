@@ -3,13 +3,7 @@
 I'm a sophomore undergraduate student at the University of Notre Dame studying Computer Science and Economics. I'm interested academically in the applicatons of finance in CS, blockchain technology, iOS Development, and more generally software development. I'm always looking for new projects to take on, big or small. 
 
 ### 🎖I've worked using: 
-- JS - (Node.js, React,...)
-- Java
-- Python3
-- R
-- Swift in IOS
 
-##### 👨‍💻On Github:
 
 
 
