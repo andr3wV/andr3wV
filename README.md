@@ -1,4 +1,4 @@
-### 👋Hi there, I'm Andrew 
+### 👋Hey, I'm Andrew 
 
 I'm a sophomore undergraduate student at the University of Notre Dame studying Computer Science and Economics. I'm interested academically in the applicatons of finance in CS, blockchain technology, iOS Development, and more generally software development. I'm always looking for new projects to take on, big or small. 
 
@@ -30,10 +30,6 @@ I'm a sophomore undergraduate student at the University of Notre Dame studying C
 
 
 ![](https://raw.githubusercontent.com/andr3wV/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
-
-
-
-*doesn't include all my private repos!...I'm working on it!
 
 ### 📫Reach out to me
   - Email andrewv433@gmail.com
