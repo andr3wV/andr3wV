@@ -6,9 +6,6 @@ I feel I have a solid foundation in application engineering, and I'm currently i
 
 Check out [my portfolio](https://www.andrewvittiglio.com) where I will post about my projects!
 
-### 🎖I've worked using: 
-![My GitHub Language Stats](https://github-readme-stats-rouge-two.vercel.app/api/top-langs/?username=andr3wV&count_private=true&layout=compact&hide_title=true)
-
 ### 📫Reach out to me
   - [Email](andrewv433@gmail.com)
   - [Linkedin](https://linkedin.com/in/andr3wV)
