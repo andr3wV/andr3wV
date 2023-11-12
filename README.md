@@ -2,7 +2,7 @@
 
 I'm a junior at the University of Notre Dame studying Computer Science and Economics. My goal is to make scalable and robust software that introduces people to "the new" in whatever form it may take.
 
-I feel I have a solid foundation in application engineering, and I'm currently interested in learning more about artificial intelligence, venture capital, entrepreneurship/startups, and applications of finance in CS. In my free time, I work on small projects, kiteboard, travel, and watch Boston sports!
+I feel I have a solid foundation in application engineering, and I'm currently interested in learning more about artificial intelligence, entrepreneurship/startups, and applications of finance in CS. In my free time, I work on small projects, kiteboard, travel, and watch Boston sports!
 
 Check out [my portfolio](https://www.andrewvittiglio.com) where I will post about my projects!
 
