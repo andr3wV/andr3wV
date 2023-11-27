@@ -6,7 +6,7 @@ I feel I have a solid foundation in application engineering, and I'm currently i
 
 Check out [my portfolio](https://www.andrewvittiglio.com) where I will post about my projects! 
 
-**NOTE: The hosting is very laggy on Chrome and Firefox for some reason...I will fix soon!**
+*NOTE: My portfolio website isn't optimized for mobile, my apologies!*
 
 ### 📫Reach out to me
   - [Email](andrewv433@gmail.com)
