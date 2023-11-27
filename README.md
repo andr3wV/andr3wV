@@ -4,7 +4,8 @@ I'm a junior at the University of Notre Dame studying Computer Science and Econo
 
 I feel I have a solid foundation in application engineering, and I'm currently interested in learning more about artificial intelligence, entrepreneurship/startups, and applications of finance in CS. In my free time, I work on small projects, kiteboard, travel, and watch Boston sports!
 
-Check out [my portfolio](https://www.andrewvittiglio.com) where I will post about my projects! [The site got laggy all of a sudden...I will fix soon!]
+Check out [my portfolio](https://www.andrewvittiglio.com) where I will post about my projects! 
+**The hosting site got laggy all of a sudden...I will fix soon!**
 
 ### 📫Reach out to me
   - [Email](andrewv433@gmail.com)
