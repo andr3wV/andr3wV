@@ -1,7 +1,5 @@
 ### 👋Hey, I'm Andrew 
 
-### Hi there, I'm Hayden 👋
-
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-haydenthai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3wV/)](https://www.linkedin.com/in/andr3wv/)
 [![Website Badge](https://img.shields.io/badge/-haydenthai.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.andrewvittiglio.com/)](https://www.andrewvittiglio.com/)
