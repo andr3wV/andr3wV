@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on building software at [CR3 Markets](https://www.cr3markets.com).
 - 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
 - 💬 Ask me about **Next.js**, **Typescript**, or **Large Language Models**.
-- ⚡ Fun fact: In my free time, I trade:chart_with_upwards_trend:, cook:man_cook:, and travel:earth_americas:.
+- ⚡ Fun fact: In my free time, I trade📈, cook👨‍🍳, and travel🌎.
 --- 
 
 ### I'm most comfortable working with: 
