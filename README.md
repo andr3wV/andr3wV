@@ -6,7 +6,7 @@
 
 
 - :briefcase: I'm a Software Engineer Intern at [Capital One](https://www.capitalone.com/).
-- :school: I'm a Senior studying **Computer Engineering** at the **University of Notre Dame**, set to graduate **May 2025**.
+- :school: I'm a Senior studying **Computer Science** at the **University of Notre Dame**.
 - 🔭 I’m currently working on building software at [CR3 Markets](https://www.cr3markets.com).
 - 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
 - 💬 Ask me about **Next.js**, **Typescript**, or **Large Language Models**.
