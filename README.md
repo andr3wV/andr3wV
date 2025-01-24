@@ -5,7 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/-andrewvittiglio.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.andrewvittiglio.com/)](https://www.andrewvittiglio.com/)
 
 
-- :briefcase: I'm a Software Engineer Intern at [Capital One](https://www.capitalone.com/).
 - :school: I'm a Senior studying **Computer Science** at the **University of Notre Dame**.
 - 🔭 I’m currently working on building software at [CR3 Markets](https://www.cr3markets.com).
 - 🌱 I’m currently learning **System Design**, **Kubernetes**, and some **Machine Learning**.
