@@ -14,8 +14,8 @@
 
 ### I'm most comfortable working with: 
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ---
 
 #### Some Frontend Skills I've Picked Up
