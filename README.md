@@ -18,7 +18,7 @@
 ![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ---
 
-#### My Not-So-Perfect Frontend Skills
+#### Some Frontend Skills I've Picked Up
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
