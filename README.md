@@ -4,18 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andr3wV-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3wV/)](https://www.linkedin.com/in/andr3wv/)
 [![Website Badge](https://img.shields.io/badge/-andrewvittiglio.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.andrewvittiglio.com/)](https://www.andrewvittiglio.com/)
 
-
-- :school: I'm a senior studying **Computer Science**.
-- 🔭 I’m working on building software at [CR3 Markets](https://www.cr3markets.com).
-- 🌱 I’m currently learning **Rust**, **AWS**, and **Option Markets Systems**.
-- 💬 Ask me about **Stock Exchanges** at the Systems Level , **NextJS**, or **GoLang**.
-- ⚡ Fun fact: In my free time, I study quantitative trading strategies📈, cook👨‍🍳, and travel🌎.
+- I'm a founder, lover of programming, and technologist.
+- I’m currently on [Que](https://addque.org) building cryptographically verifiable provenance. 
 --- 
 
 ### Languages I've Worked with the Most: 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ---
 
 #### Some Frontend Skills I've Picked Up
