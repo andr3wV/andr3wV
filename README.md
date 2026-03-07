@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andr3wV-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr3wV/)](https://www.linkedin.com/in/andr3wv/)
 [![Website Badge](https://img.shields.io/badge/-andrewvittiglio.com-0a812a?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.andrewvittiglio.com/)](https://www.andrewvittiglio.com/)
 
-- I'm a founder, lover of programming, and technologist.
-- I’m currently on [Que](https://addque.org) building cryptographically verifiable provenance. 
+- Working on [Que](https://addque.org) building cryptographically verifiable provenance. 
 --- 
 
 ### Languages I've Worked with the Most: 
